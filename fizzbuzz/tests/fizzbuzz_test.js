@@ -1,7 +1,7 @@
 'use strict';
 
 var should = require('should');
-var FizzBuzz = require('../lib/fizzbuzz.js').FizzBuzz;
+var FizzBuzz = require('../').FizzBuzz;
 
 describe('FizzBuzz basic operations', function() {
 
